@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0d38f707016f3b4da005234ea40a664, type: 3}
+  m_Name: Baphomet Sword
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 0fb05bff561f642479bb2f6f41529189, type: 3}
+  itemName: Sword_Runic
+  modelPrefab: {fileID: 8045290426053675138, guid: 4be7b3ea3dfa04a40b6fab5e1a6a9971, type: 3}
+  isUnarmed: 0
+  right_Hand_idle: Right_Arm_Idle_01
+  left_hand_idle: Left_Arm_Idle_01
+  OH_Light_Attack_1: SR_Light_Attack_02
+  OH_Light_Attack_2: SR_Light_Attack_01
+  OH_Heavy_Attack_1: SR_Heavy_Attack_01
+  OH_Running_Attack_1: 
+  SR_Light_Attack_1: 
+  SR_Light_Attack_2: 
+  SR_Heavy_Attack_1: 
+  SR_Running_Attack_1: SR_Running_Attack_01
+  baseStamina: 20
+  lightAttackMultiplier: 1
+  heavyAttackMultiplier: 2
